@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm [David Ferreira]! 👋
 
 ### 👨‍💻 About Me
 - 🔭 I’m currently working on **[Project Name/Field]**
@@ -18,7 +18,7 @@
 ---
 
 ### 📊 GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dab1d)](https://github.com/anuraghazra/github-readme-stats)
+![David Ferreira](https://github-readme-stats.vercel.app/api?username=Dab1d&show_icons=true&theme=radical)
 ---
 
 ### 📫 Reach Me
