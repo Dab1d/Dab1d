@@ -1,11 +1,6 @@
-# Hi there, I'm [David Ferreira]! 👋
+# Hi there, I'm David Ferreira! 👋
 
-### 👨‍💻 About Me
-- 🔭 I’m currently working on **[Project Name/Field]**
-- 🌱 I’m currently learning **[Language or Framework]**
-- 👯 I’m looking to collaborate on **[Type of Project]**
-- 💬 Ask me about **[Topics you're an expert in]**
-- ⚡ Fun fact: **[Something quirky or interesting]**
+
 
 ---
 
@@ -22,6 +17,6 @@
 ---
 
 ### 📫 Reach Me
-- 🌐 Portfolio: [yourname.com](https://yourname.com)
+<!-- - 🌐 Portfolio: [yourname.com](https://yourname.com)
 - 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com)
-- 🐦 Twitter: [@yourhandle](https://twitter.com)
+- 🐦 Twitter: [@yourhandle](https://twitter.com) --
