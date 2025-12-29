@@ -1,1 +1,27 @@
-Trust the process
+# Hi there, I'm [Your Name]! 👋
+
+### 👨‍💻 About Me
+- 🔭 I’m currently working on **[Project Name/Field]**
+- 🌱 I’m currently learning **[Language or Framework]**
+- 👯 I’m looking to collaborate on **[Type of Project]**
+- 💬 Ask me about **[Topics you're an expert in]**
+- ⚡ Fun fact: **[Something quirky or interesting]**
+
+---
+
+### 🛠 My Stack
+**Languages:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+
+**Frameworks & Tools:**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dab1d)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+### 📫 Reach Me
+- 🌐 Portfolio: [yourname.com](https://yourname.com)
+- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com)
+- 🐦 Twitter: [@yourhandle](https://twitter.com)
