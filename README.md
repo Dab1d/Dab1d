@@ -11,7 +11,7 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
-
+<!--
 ### 📊 GitHub Stats
 ![David Ferreira](https://github-readme-stats.vercel.app/api?username=Dab1d&show_icons=true&theme=radical)
 ---
