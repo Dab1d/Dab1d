@@ -1,9 +1,5 @@
 # Hi there, I'm David Ferreira! 👋
 
-
-
-# Hi there, I'm David Ferreira! 👋
-
 ---
 
 ### 🛠 My Stack
