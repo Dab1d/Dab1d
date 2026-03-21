@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dab1d&label=Profile%20views&color=0e75b6&style=flat" alt="Dab1d" /> </p>
 
-
+https://github-readme-stats.vercel.app/api/fortnite-stats?username=Dab1d&show_icons=true&theme=dark
 
 ### 🛠 My Stack
 **Languages:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -13,6 +13,7 @@
 **Frameworks & Tools:**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
 
 ---
 <!--
