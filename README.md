@@ -2,8 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dab1d&label=Profile%20views&color=0e75b6&style=flat" alt="Dab1d" /> </p>
 
-![Estatísticas do Dab1d](https://github-readme-stats.vercel.app/api?username=Dab1d&show_icons=true&theme=dark)
-
 ### 🛠 My Stack
 **Languages:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
