@@ -1,5 +1,3 @@
-# Hi there, I'm David Ferreira! 👋
-
 ## 👤 About Me
  <p align="center"><img width="654" height="387" alt="image" src="https://github.com/user-attachments/assets/26058283-d02b-4640-84cc-ae5d7ceec6f4" />
 
