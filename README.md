@@ -1,8 +1,3 @@
-## 👤 About Me
- <p align="center"><img width="654" height="387" alt="image" src="https://github.com/user-attachments/assets/26058283-d02b-4640-84cc-ae5d7ceec6f4" />
-
- <p align="center"> <img src="https://komarev.com/ghpvc/?username=Dab1d&label=Profile%20views&color=0e75b6&style=flat" alt="Dab1d" /> </p>
- 
 ## 🛠 My Stack
 
 ### Languages
@@ -29,6 +24,10 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="32"/> 
 </p>
 
+## 👤 About Me
+ <p align="center"><img width="654" height="387" alt="image" src="https://github.com/user-attachments/assets/26058283-d02b-4640-84cc-ae5d7ceec6f4" />
+
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=Dab1d&label=Profile%20views&color=0e75b6&style=flat" alt="Dab1d" /> </p>
 
 
 
